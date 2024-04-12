@@ -19,8 +19,11 @@ She/Her
 ### ⚡ One line that describes me best? 
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
+###
+
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
+### ⚡ My Skills
 
 ###
 
