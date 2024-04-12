@@ -1,4 +1,6 @@
-# Hello, geeks! 👋
+<h2 align="left">Hi 👋! I am Proud Of Me !</h2>
+
+###
 
 I am _Garima Singh_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
@@ -30,37 +32,6 @@ An ambitious girl who loves to cook fries, day dream at nights and sometime code
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-***
-
-
-
-<!--
-**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-###
-<h2 align="left">Hi 👋! I am Proud Of Me !</h2>
 
 ###
 
